@@ -1,2 +1,2 @@
 # CHA_SyS_v0
-CHA system first draft for presentation
+Only for presentation, for personal reasons the finished version is private
